@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<styles version="1.0">
+    <set name="Full Page">
+        <style name="Page Background" variable="page-background" type="color" />
+        <style name="Text" variable="body" type="type" />
+    </set>
+    <set name="Blockquote">
+        <style name="Left Padding" variable="blockquote-left-padding" type="size" />
+    </set>
+    <set name="Image Slider">
+        <style name="Background Image" variable="image-slider-background" type="image" />
+    </set>
+</styles>

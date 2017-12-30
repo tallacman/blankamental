@@ -1,0 +1,5 @@
+This software is licensed under the terms described in the concrete5.org marketplace. Please find the add-on there for the latest license copy.
+
+Blankamental License
+Free to mutate as you see fit.
+tallacman - December 30, 2017  

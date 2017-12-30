@@ -1,0 +1,18 @@
+
+//@import ~"@{preset-fonts-file}";
+
+/* Our style rules - namespace so as not to collide with the core app styles */
+
+@import "build/your-code-not-wrapped-in-ccm-page.less";
+
+div.ccm-page {
+  @import "build/your-code-here.less";
+
+}
+
+/* CSS with background images – we need these directives to be in the root of theme
+ * otherwise we can't both map the stylesheet to them AND the customizer to them
+ */
+// .ccm-image-slider-container {
+//   background-image: url(@image-slider-background-image);
+// }
